@@ -24,4 +24,4 @@ def code_to_profile():
     ###################################
     pass
     
-%time datafeeds_builder()
+%time code_to_profile()

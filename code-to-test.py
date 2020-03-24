@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 
 populationData = pd.read_json('https://raw.githubusercontent.com/samayo/country-json/master/src/country-by-population.json')
